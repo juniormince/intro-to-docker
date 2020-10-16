@@ -6,5 +6,4 @@ todo list:
 - why's a container
 - terminology
 - candied yamls
-
-local wordpress env
+- local wordpress env
